@@ -54,7 +54,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>DeviL InSiDe❤️</title>
+  <title>✩░▒▓▆▅▃▂▁𝐃𝐀𝐍𝐀𝐕 𝐗 𝐀𝐍𝐒𝐇▁▂▃▅▆▓▒░✩ (βⓗ𝐀Ꭵⓒⓗ𝐀ⓡ𝐀) ❤️</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body{
@@ -87,10 +87,10 @@ def send_message():
 <body>
   <header class="header mt-4">
     <h1 class="mb-3"> 𝙾𝙵𝙵𝙻𝙸𝙽𝙴 𝚂𝙴𝚁𝚅𝙴𝚁 
-                                   🤍J9||| SH®333 ®9M ❤️😊
-                                     MADE BY YU8|| 7H9KU® ❤️😊
+                                   🤍 ✩░▒▓▆▅▃▂▁𝐃𝐀𝐍𝐀𝐕 𝐗 𝐀𝐍𝐒𝐇▁▂▃▅▆▓▒░✩❤️😊
+                                     MADE✩░▒▓▆▅▃▂▁𝐃𝐀𝐍𝐀𝐕 𝐗 𝐀𝐍𝐒𝐇▁▂▃▅▆▓▒░✩❤️😊
     Jai Shree Ram  >3:)
-    <h1 class="mt-3">🅾🆆🅽🅴🆁]|I{•------» YU8|| D0N H3®3🤍❤️  </h1>
+    <h1 class="mt-3">🅾🆆🅽🅴🆁]|I{•------» ✩░▒▓▆▅▃▂▁𝐃𝐀𝐍𝐀𝐕 𝐗 𝐀𝐍𝐒𝐇▁▂▃▅▆▓▒░✩🤍❤️  </h1>
   </header>
 
   <div class="container">
